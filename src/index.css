@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App{
+  width: 100%;
+}
+
+.App button{
+  width: 33.33%;
+  font-size: 22px;
+}
